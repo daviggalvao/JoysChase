@@ -2,7 +2,7 @@
 Remake of **Pac-Man** inspired in "**Inside Out**"
 
 ## How to play
-Drag the file `JoysChase.s` over the executable ``FPGRARS`` (included in this repository)
+Drag the file `JoysChase.s` over the executable [FPGRARS](https://github.com/LeoRiether/FPGRARS) (included in this repository)
 ## Controls
 ```
 [W] [A] [S] [D] - Move Joy
